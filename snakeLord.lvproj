@@ -20,8 +20,8 @@
 		<Item Name="TypeDefs" Type="Folder" URL="../TypeDefs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
-		<Item Name="testMain.vi" Type="VI" URL="../testMain.vi"/>
+		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="tester.vi" Type="VI" URL="../tester.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
